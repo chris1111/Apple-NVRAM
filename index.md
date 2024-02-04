@@ -21,7 +21,7 @@ layout: default
 
 #### Script ➦ [Main Scipt](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Resources/script)
 
-## ⇩ View Usage:
+## View Usage: ⇩
 
 <img src="Sources/Pics/Pics1.png">
 
