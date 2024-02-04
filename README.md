@@ -10,6 +10,8 @@
     <li>PlistBuddy Tools <a href="https://www.unix.com/man-page/osx/8/PLISTBUDDY/">PlistBuddy</a></li>
 </ul>
 
+#### Script ➦ [Main Scipt](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Resources/script)
+
 ## ⇩ View Spoiler Usage:
 <details> 
   <summary>Usage</summary>
