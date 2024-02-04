@@ -1,0 +1,39 @@
+#!/bin/sh 
+# Vars
+apptitle="Apple-NVRAM"
+version="1.0"
+# Set Icon directory and file 
+export ICNS=$(dirname "${0}")
+iconfile="$ICNS/AppIcon.icns"
+NVRAM="/private/tmp/nvram.plist"
+# Select Restore
+response=$(osascript -e 'tell app "System Events" to display dialog "Select NVRAM to create and view nvram.plist in xml format.\n\nCancel to Quit" buttons {"Cancel","NVRAM"} default button 2 with title "'"$apptitle"' '"$version"'" with icon POSIX file "'"$iconfile"'"  ')
+
+action=$(echo $response | cut -d ':' -f2)
+
+
+# Exit if Canceled
+if [ ! "$action" ] ; then
+  osascript -e 'display notification "Program close" with title "'"$apptitle"'" subtitle "User Cancel"'
+  echo "User Cancel"
+  Sleep 2
+  echo "QUITAPP"
+  exit 0
+fi
+
+osascript <<EOD
+  tell application "Apple-NVRAM"
+      activate
+  end tell
+EOD
+
+
+if [ "$action" == "NVRAM" ] ; then
+echo "Create nvram.plist"
+rm -rf "$NVRAM"
+Sleep 3
+./nvramdump
+/usr/libexec/PlistBuddy -x -c "Print" "$NVRAM"
+fi
+
+
