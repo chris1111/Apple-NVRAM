@@ -22,20 +22,16 @@ layout: default
 
 ## ⇩ View Spoiler Usage:
 <details> 
-  <summary>Usage</summary>
+  <summary>➥ Usage</summary>
+  
 
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)
+Usage:1             |  Usage:2
+:-------------------------:|:-------------------------:
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)  |  ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics2.png)
 
-
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics2.png)
-
-
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics3.png)
-
-
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics4.png)
-
-
+Usage:3             |  Usage:4
+:-------------------------:|:-------------------------:
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics3.png)  |  ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics4.png)
 
 
 </details>
