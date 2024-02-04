@@ -1,6 +1,6 @@
 # Apple-NVRAM
 
-![1](https://github.com/chris1111/Apple-NVRAM/assets/6248794/ed874d77-8e40-4ddd-9d88-26e8d45206d9)
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)
 
 
 #### Downloads ➤ [Apple-NVRAM](https://github.com/chris1111/Apple-NVRAM/raw/Master/Apple-NVRAM.zip)
@@ -20,16 +20,18 @@
 <details> 
   <summary>Usage</summary>
 
-![1](https://github.com/chris1111/Apple-NVRAM/assets/6248794/e060950c-4177-454f-b35c-0d7bb4967c80)
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)
 
 
-![2](https://github.com/chris1111/Apple-NVRAM/assets/6248794/7c60e7a7-7e91-44a0-973f-a63fb5f75617)
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics2.png)
 
 
-![3](https://github.com/chris1111/Apple-NVRAM/assets/6248794/6e97af07-5560-40d1-ab39-fe38a8fb8f4b)
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics3.png)
 
 
-![4](https://github.com/chris1111/Apple-NVRAM/assets/6248794/9b9fe356-fff8-4e1d-a653-cc16c88286d7)
+![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics4.png)
+
+
 
 
 </details>
