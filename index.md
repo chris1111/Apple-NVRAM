@@ -4,8 +4,6 @@ layout: default
 
 # Apple-NVRAM
 
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)
-
 
 #### Downloads ➤ [Apple-NVRAM](https://github.com/chris1111/Apple-NVRAM/raw/Master/Apple-NVRAM.zip)
 
@@ -20,10 +18,7 @@ layout: default
 
 #### Script ➦ [Main Scipt](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Resources/script)
 
-## ⇩ View Spoiler Usage:
-<details> 
-  <summary>➥ Usage</summary>
-  
+## ⇩ View Usage:
 
 Usage:1             |  Usage:2
 :-------------------------:|:-------------------------:
@@ -34,4 +29,3 @@ Usage:3             |  Usage:4
 ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics3.png)  |  ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics4.png)
 
 
-</details>
