@@ -21,16 +21,14 @@ layout: default
 
 #### Script ➦ [Main Scipt](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Resources/script)
 
-## ⇩ View Spoiler Usage:
-<details> 
-  <summary>View ➥ Usage</summary>
+## ⇩ View Usage:
 
-<p align="center">
-      <img src="Sources/Pics/Pics1.png" align="left">
-      <img src="Sources/Pics/Pics2.png" align="left">
-      <img src="Sources/Pics/Pics3.png" align="left">
-      <img src="Sources/Pics/Pics4.png" align="left">
-</p>
+<img src="Sources/Pics/Pics1.png">
 
-</details>
+<img src="Sources/Pics/Pics2.png">
+
+<img src="Sources/Pics/Pics3.png">
+
+<img src="Sources/Pics/Pics4.png">
+
 
