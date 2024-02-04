@@ -30,22 +30,3 @@ layout: default
 <img src="Sources/Pics/Pics3.png">
 
 <img src="Sources/Pics/Pics4.png">
-
-
-## ⇩ View Spoiler Usage:
-<p>
-<details>
-<summary>Usage</summary>
-    
-<img src="Sources/Pics/Pics1.png">
-
-<img src="Sources/Pics/Pics2.png">
-
-<img src="Sources/Pics/Pics3.png">
-
-<img src="Sources/Pics/Pics4.png">
-
-</details>
-</p>
-
-
