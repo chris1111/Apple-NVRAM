@@ -4,6 +4,9 @@ layout: default
 
 # Apple-NVRAM
 
+<p align="center">
+      <img src="Sources/Pics/Pics1.png" align="left">
+</p>
 
 #### Downloads ➤ [Apple-NVRAM](https://github.com/chris1111/Apple-NVRAM/raw/Master/Apple-NVRAM.zip)
 
