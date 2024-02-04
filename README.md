@@ -3,9 +3,13 @@
 ![1](https://github.com/chris1111/Apple-NVRAM/assets/6248794/ed874d77-8e40-4ddd-9d88-26e8d45206d9)
 
 
+#### Downloads ➤ [Apple-NVRAM](https://github.com/chris1111/Apple-NVRAM/raw/Master/Apple-NVRAM.zip)
+
+
 <h4>Credit:</h4>
 <ul>
-    <li>Build by <a href="https://github.com/chris1111/">chris1111</a></li>
+    <li>Build by <a href="https://github.com/chr
+                     is1111/">chris1111</a></li>
     <li>Acidanthera <a href="https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/LogoutHook">nvramdump</a></li>
     <li>PlistBuddy Tools <a href="https://www.unix.com/man-page/osx/8/PLISTBUDDY/">PlistBuddy</a></li>
 </ul>
