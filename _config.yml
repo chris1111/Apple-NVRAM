@@ -1,5 +1,5 @@
-title: Wifi-Intel-KextsBuilder
-description: Wifi-Intel-KextsBuilder / macOS / Wifi
+title: Apple-NVRAM
+description: Read Apple NVRAM in XML format
 github:
-  repository_url: https://github.com/chris1111/Wifi-Intel-KextsBuilder
+  repository_url: https://github.com/chris1111/Apple-NVRAM
 remote_theme: chris1111/cayman-dark
