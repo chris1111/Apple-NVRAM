@@ -20,18 +20,13 @@
 <details> 
   <summary>Usage</summary>
 
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)
+<img src="Sources/Pics/Pics1.png">
 
+<img src="Sources/Pics/Pics2.png">
 
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics2.png)
+<img src="Sources/Pics/Pics3.png">
 
-
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics3.png)
-
-
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics4.png)
-
-
+<img src="Sources/Pics/Pics4.png">
 
 
 </details>
