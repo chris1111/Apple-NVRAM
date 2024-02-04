@@ -18,14 +18,16 @@ layout: default
 
 #### Script ➦ [Main Scipt](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Resources/script)
 
-## ⇩ View Usage:
+## ⇩ View Spoiler Usage:
+<details> 
+  <summary>View ➥ Usage</summary>
 
-Usage:1             |  Usage:2
-:-------------------------:|:-------------------------:
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)  |  ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics2.png)
+<p align="center">
+      <img src="Sources/Pics/Pics1.png" align="left">
+      <img src="Sources/Pics/Pics2.png" align="left">
+      <img src="Sources/Pics/Pics3.png" align="left">
+      <img src="Sources/Pics/Pics4.png" align="left">
+</p>
 
-Usage:3             |  Usage:4
-:-------------------------:|:-------------------------:
-![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics3.png)  |  ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics4.png)
-
+</details>
 
