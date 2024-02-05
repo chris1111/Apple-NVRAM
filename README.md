@@ -1,4 +1,5 @@
 # Apple-NVRAM
+- OpenCore (Hackintosh User)
 
 ![](https://github.com/chris1111/Apple-NVRAM/blob/Master/Sources/Pics/Pics1.png)
 
