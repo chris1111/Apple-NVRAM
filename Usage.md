@@ -1,4 +1,4 @@
-## View Usage: ⇩
+## Usage: ⇩
 
 <img src="Sources/Pics/Pics1.png">
 
