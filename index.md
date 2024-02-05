@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Apple-NVRAM
+- OpenCore (Hackintosh User)
 
 
 <img src="Sources/Pics/Pics1.png">
